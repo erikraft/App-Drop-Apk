@@ -2,8 +2,8 @@
 
 <a href="https://github.com/erikraft/Drop"><strong>GitHub Repository</strong></a>
   
-  <a href="https://github.com/erikraft/Drop">
-    <img src="https://raw.githubusercontent.com/erikraft/Drop/master/public/images/(2)ErikrafT%20Drop%20-%20Redondado.png" alt="Logo"  width="150" height="150">
+ <a href="https://github.com/erikraft/Drop">
+    <img src="https://biodrop.erikraft.com/images/Logo.png" alt="Logo"  width="150" height="150">
   </a>
  
   # _Send it_, with [ErikrafT Drop](https://drop.erikraft.com/)
