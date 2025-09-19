@@ -19,8 +19,18 @@
 </div>
 
 <p align="center">
- 	  <a href="https://discord.erikraft.com/"><img src="https://img.shields.io/discord/1121464803941171270?label=discord&style=flat-square&color=5a66f6"></a>
+ 	  Minecraft Community<br>
+ 	  <a href="https://discord.gg/8ErMwRy4aj"><img src="https://img.shields.io/discord/1121464803941171270?label=discord&style=flat-square&color=5a66f6"></a>
 	  &nbsp;
+<br>
+<br>
+<br>
+ErikrafT Drop Community
+<br>
+ 	  <a href="https://discord.gg/KWvqwRxjnA"><img src="https://img.shields.io/discord/1372342747494613032?label=discord&style=flat-square&color=5a66f6"></a>
+	  &nbsp;
+<br>
+
 </p>
 
 <br>
